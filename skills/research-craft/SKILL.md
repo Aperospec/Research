@@ -2,7 +2,7 @@
 name: research-craft
 description: 为研究问题与实际决策检索、核验和综合证据，比较争议与不确定性，按需要设计实测，并检查具体主张与第三方材料的使用依据。适用于事实调查、证据审查、能力验证和研究综述。
 metadata:
-  version: 1.0.0-alpha
+  version: 1.0.1-alpha
 ---
 
 # 研究与证据判断
