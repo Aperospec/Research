@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Craft"
+  short_description: "Evidence retrieval, comparison, synthesis and verification."
+  default_prompt: "Use $research-craft to complete the professional work required by this project."
